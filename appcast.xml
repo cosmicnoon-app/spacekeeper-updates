@@ -1,9 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>SpaceKeeper updates</title>
-    <link>https://cosmicnoon.com.au</link>
-    <description>Official SpaceKeeper updates from Cosmic Noon.</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SpaceKeeper updates</title>
+        <link>https://cosmicnoon.com.au</link>
+        <description>Official SpaceKeeper updates from Cosmic Noon.</description>
+        <language>en</language>
+        <item>
+            <title>1.1</title>
+            <pubDate>Wed, 23 Sep 2026 14:57:45 +0800</pubDate>
+            <link>https://cosmicnoon.com.au</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Initial SpaceKeeper release.
+]]></description>
+            <enclosure url="https://github.com/cosmicnoon-app/spacekeeper-updates/releases/download/v1.1-2/SpaceKeeper-1.1-2.dmg" length="11572689" type="application/octet-stream" sparkle:edSignature="fZfgzQBblj3tneHWeSURVJk6DNUV7XsoawkhqMv+bEnjGnKaKwMCBGfmwqg0OxISLqYCsKwO6HXCNqNj/rFJAg=="/>
+        </item>
+    </channel>
 </rss>
